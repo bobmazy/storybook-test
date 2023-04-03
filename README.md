@@ -11,6 +11,11 @@
 
 <h3>Testing instructions</h3>
 
+<p>Build Docker Image</p>
+<pre>
+  docker build -t storybook .
+</pre>
+
 <p>Install dependencies:</p>
 <pre>
   yarn
